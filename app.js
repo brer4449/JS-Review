@@ -14,9 +14,18 @@ var fruits = document.getElementById("fruits");
 // console.log(js);
 // console.log(hello);
 // console.log(something);
-if (div.children[1].children[0].textContent === "bananas") {
-  console.log("yes bananas");
-} else {
-  console.log("no bananas");
-}
+// if (div.children[1].children[0].textContent === "bananas") {
+//   console.log("yes bananas");
+// } else {
+//   console.log("no bananas");
+// }
 // console.log(fruits.parentElement.parentElement);
+
+// let person = {
+//   firstName: "Brendan",
+//   lastName: "Erickson",
+// };
+// var input1 = document.getElementById("input1");
+// var inputText = input1.value;
+// localStorage.setItem("person", JSON.stringify(person));
+// console.log(JSON.parse(localStorage.getItem("person")));
